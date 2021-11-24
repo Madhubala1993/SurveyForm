@@ -1,0 +1,21 @@
+sup {
+  color: red;
+  font-weight: bold;
+}
+body {
+  font-family: "Times New Roman", Times, serif;
+  margin: 1%;
+}
+.checked {
+  color: orange;
+}
+#radios {
+  margin-left: 4%;
+  font-size: small;
+  margin-top: 1%;
+}
+form {
+  margin: 0 auto;
+  width: 50%;
+  border: 1px solid #ccc;
+}
